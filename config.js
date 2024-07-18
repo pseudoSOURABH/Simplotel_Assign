@@ -1,0 +1,21 @@
+IDRViewer.config = {
+  pagecount: 2,
+  title: 'OrderFood',
+  author: 'Bhanu PS Chauhan',
+  subject: '',
+  keywords: 'DAFhVOx0Gf8,BAElmLzWjEU',
+  creator: 'Canva',
+  producer: 'Canva',
+  creationdate: "D:20231207074310+00'00'",
+  moddate: "D:20231207074309+00'00'",
+  trapped: '',
+  fileName: 'Frontend Assignment.pdf',
+  bounds: [
+    [1565, 880],
+    [1565, 880],
+  ],
+  bookmarks: [],
+  thumbnailType: 'jpg',
+  pageType: 'html',
+  pageLabels: [],
+}
